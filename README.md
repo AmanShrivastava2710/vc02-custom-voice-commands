@@ -4,7 +4,7 @@ This repository demonstrates how to create, train, flash, and use **custom offli
 The setup and workflow are based on the tutorial **“Add Custom Voice Command to your Projects using VC-02 Module”** by Aviyan’s Thoughts.
 
 This project covers firmware generation, command configuration, hardware wiring, and microcontroller integration.
-![plot](./IMG_0109.jpeg)
+
 ---
 
 ## 📌 Features
