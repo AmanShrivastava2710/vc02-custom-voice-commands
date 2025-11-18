@@ -117,4 +117,12 @@ This project covers firmware generation, command configuration, hardware wiring,
 
 ## 📁 Repository Structure
 
-VC-02-Custom-Voice-Commands
+VC-02-Custom-Voice-Commands/
+.
+├── README.md
+├── img.jpeg
+└── outputs
+    ├── uni_app_debug.bin
+    ├── uni_app_debug_update.bin
+    ├── uni_app_release.bin
+    └── uni_app_release_update.bin
