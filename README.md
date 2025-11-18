@@ -116,8 +116,6 @@ This project covers firmware generation, command configuration, hardware wiring,
 ---
 
 ## 📁 Repository Structure
-
-VC-02-Custom-Voice-Commands/
 .
 ├── README.md
 ├── img.jpeg
