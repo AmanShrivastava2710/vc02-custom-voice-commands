@@ -116,5 +116,13 @@ This project covers firmware generation, command configuration, hardware wiring,
 ---
 
 ## 📁 Repository Structure
-$tree
-
+````bash
+.
+├── README.md
+├── img.jpeg
+└── outputs
+    ├── uni_app_debug.bin
+    ├── uni_app_debug_update.bin
+    ├── uni_app_release.bin
+    └── uni_app_release_update.bin
+````
